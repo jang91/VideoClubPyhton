@@ -1,0 +1,15 @@
+opc = "0"
+while opc != "8":
+    
+    print("1. Ingresos de usuario")
+    print(" ")
+    print("2. Ingreso de Peliculas")
+    print("3. Arrendasr")
+    print("4. Busqueda de usuarios/peliculas")
+    print("5. Eliminar usuarios/peliculas")
+    print("6. Ver arrendamientos")
+    print("7. Administrar peliculas")
+    print("8. Salir")
+   
+
+    opc = input("Digite la opcion: ")
